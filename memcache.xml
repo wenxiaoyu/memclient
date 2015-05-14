@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Memcache>
+<Host>
+	<Ip>127.0.0.1</Ip>
+	<Port>11211</Port>
+</Host>
+<Host>
+	<Ip>127.0.0.1</Ip>
+	<Port>11212</Port>
+</Host>
+<Host>
+	<Ip>127.0.0.1</Ip>
+	<Port>11213</Port>
+</Host>
+<Pool>
+	<Min>5</Min>
+	<Max>10</Max>
+</Pool>
+</Memcache>
